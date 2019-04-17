@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1.   Bu sözleşme ile kiralayan (Enterprise), ön sayfada tarif edilen aracı (Bu anlaşmada araç olarak belirtilecektir) bu sözleşme koşullarıyla kiraya vermiş, kiracı da koşulları kabul etmek suretiyle aracı kiralamıştır.
+2.   EDMR, EDMD, EDAR, EDAD, HDMD gruplar için 21 yaş 1 yıllık sürücü belgesi,  CDAD, IDMD, IDAR IDAD, IFAR  gruplar için 25 yaş, 2 yıllık sürücü belgesi, JDAD, SDMD, SDAR, SDAD, SFAR, SFMD, SFAD GRUPLAR İÇİN 25 YAŞ 2  yıllık sürücü belgesi, FDAR, FDAD, PDAR, PDAD, LDAR, LVMD grup araçlar için 27 yaş 3 yıllık sürücü belgesine sahip kişiler Enterprise‘ ın oto kiralama hizmetlerinden yararlanabilir.
+3.  Kiracı, karayolları yönetmeliği ile yürürlükteki kanunlara uymak zorundadır. Kanun ve yönetmeliklere aykırı araç kullanımı nedeni ile cezai işlem yapılması halinde masraflardan (ceza, araç bağlanması, araç çekilmesi v.b.) kiracı sorumludur.
+4.    Kara yolları trafik kurallarına aykırı hareket etmek suretiyle sebebiyet vermiş olduğu kazalar neticesinde uygulanacak cezai işlemler ve bunların ferilerinden (Trafik cezası, kiralama konusu aracın bağlanması ve çekilmesi sonucunda oluşacak masraflar ve ilgili kaza sonucunda oluşacak diğer sair masraflar) kiracı sorumludur.
+5.   Kiralama en az 1 gün (24 saat) ‘tir. Daha kısa süreli kiralamalarda günlük fiyat uygulanır. Gecikme halinde, her ek saat için, uygulanan ücretin 1/3 ’ü, gecikme 3 saati geçtiği takdirde ise tam gün ücreti alınır.
+6.   Kiracı aracı kararlaştırılan günde iade ve teslim edecektir. Bütün uzatmalar için YES OTO’ya başvuracak ve onayını alacaktır, Onay alınmaksızın yapılan uzatmalarda, Kiracının aracı hukuka aykırı olarak yed dinde bulundurduğu taraflarca kabul edilmiştir.
+7.   Kira başlangıcında, araç kullanıcılarının sürücü belgelerini ve kullanılabilir durumdaki kredi kartlarını ibraz etmeleri gerekmektedir. Ödemeler kiralama başlangıcında geçerli bir kredi kartı ile yapılır. 
+8.   Kiralama başlangıcında kiracının kredi kartından teminat mahiyetinde araç grubuna göre değişen tutarlarda geçici blokaj işlemi uygulanmaktadır. Kiralama süresi 1 aydan fazla ise, bloke tutarı aylık kiralama bedeli kadardır. Kiracı, blokaj üzerinden, ilave kira gün tutarlarının, yakıt eksiğinin, hasarın, trafik cezalarının v.b. kiralamaya ilişkin bedellerin tahsil edilmesine itiraz etmeyeceğini peşinen kabul eder. Trafik cezaları ile ilgili gerçekleştirilecek işlemlerde, hizmet bedeli maksimum 100 TL’ye kadar olmak üzere her bir ceza tutarının %20 (yüzde yirmi) si artı KDV kadar ücretlendirilecektir. Araçlarda HGS olup (Hızlı Geçiş Sistemi) kiracı kira dönüşü geçiş yaptığı bedelin üzerine %18 hizmet bedeli ilavesi ile ödemesini ilgili ofise yapacaktır. OGS (Otomatik Geçiş Sistemi)'ni kullanan kiracılar kaçak geçiş bedellerini ödemekle yükümlüdür.
+9.   Kiracının talep etmesi halinde, sigorta kapsamını genişleten aşağıdaki ek sigortalar satın alınabilir;
+-   Mini Hasar Sigortası, araç grubuna göre değişkenlik gösteren belirlenmiş bedele kadar oluşan maddi hasarları (lastik, cam, far hasarları hariç olmak üzere) müşteri yazılı beyanı ile polis raporuna gerek kalmaksızın kapsamaktadır. Mini hasar sigortasının belirlediği bedelin üzerinde olan hasarlarda, müşteri tüm hasar bedelinden sorumludur.
+-  Araçtaki standart kasko sigortasının kapsamadığı lastik, cam ve farlara verilen hasar maliyeti sorumluluğu, lastik, cam, far sigortası ile güvence altına alınmaktadır.
+-    İhtiyari mali mesuliyet sigortası, zorunlu mali mesuliyet sigortasına ilave olarak, üçüncü şahıslara karşı maksimum 250.000 tl tutarında güvence sağlar.
+-  Ferdi kaza sigortası, sürücü ve araç içindeki yolcuları sigorta limitleri dahilinde güvence altına alır.
+10.  Kiralanan araçta hasar ve veya arıza oluşması halinde, aracın güvenli ve zararı arttırmayacak şekilde yetkili servise ulaştırılmasından kiracı sorumludur. Aracı servise ulaştırılması aşamasında, Enterprise ofislerinden ya da Enterprise Yol Yardım çağrı merkezinden destek alınmaması halinde çekici maliyeti kiracı tarafından ödenecektir. 
+11.   Kiracı, aracı teslim aldığı hali ile aracın kiralandığı şehirde veya ön sayfada belirtilen başka bir yerdeki Enterprise ofisine, başlangıçta belirtilen günde, saatte ve kiralayanın isteği üzerine daha erken bir tarihte iade ve teslim edecektir. 
+12. Kiracı, kiralayanın isteği üzerine, aşağıda belirtilenleri ödemekle sorumludur; 
+a.  Kira süresi içinde aracın kullanıldığı gün ve/veya kat ettiği mesafe için ön sayfada belirtilen miktarlara göre hesaplanacak günlük kira ücreti ve/veya kilometre ücretini (aracın kat ettiği mesafe miktarı, imalatçının araca koyduğu kilometre saatini okumak suretiyle tespit edilir. Kilometre saatinin bozulması halinde kilometre ücreti yapılan yolculuğun haritadaki mesafesine göre hesaplanır) 
+b.   Uzlaşılan ve kira sözleşmesinde belirtilen miktarlar üzerinden sigorta ücretleri ve diğer ücretler,
+c.   Aracın, teslim alınan ofisten farklı bir ofise bırakılması durumunda bırakılan yere kadar Kiralayan tarafından belirlenen tek yön ücreti,
+d.   Katma değer vergisi ve sorumlu olunacak diğer vergiler, 
+e.   Kira süresi içinde, kiralayanın hatasından doğanlar dışında araca, kiracı ve başka sürücü ile veya kiralayana karşı kesilen park etme, trafik kurallarının veya kanun ihlalinden doğan diğer bütün para cezaları ve mahkeme masrafları ile aracın bağlanmasından dolayı ortaya çıkabilecek masraflar ile aracın kiraya verilememesinden kaynaklanan günlerin ücretleri,
+f.  Çarpışma veya devrilme dolayısıyla araçta olabilecek hasarların tamiri nedeniyle oluşacak masraflar, kiralayanın giderleri ve üçüncü şahıslara ödemekle sorumlu olduğu maddi ve manevi tazminatlar kiracı tarafından ödenecektir. Ancak kiracı, kira sözleşmesinde ilgili ‘Kabul Eder’ hanesini imzalamak ve önceden kasko muafiyet sınırı primini ödemek kaydı ile, anlaşmada yer alan tüm koşullara uygun olarak aracı kullanmak ve işlemleri tamamlamak kaydı ile araç sigortasından yararlanabilecektir.
+g. Kiracı, aracın mekanik ve kaporta açısından ( kira sözleşmesi ve araç teslim formunda belirtilenler dışında ) sağlam ve iyi durumda teslim aldığını, araçta kullanım hatası nedeni ile ve/veya dikkatsizlik, tedbirsizlik nedeni ile trafik sigortası kuralları kapsamında, sigorta firmalarından talep ve tahsil edilemeyen her türlü mekanik, elektrik ve sair 3. kişilerin talepleri de dahil olmak üzere tüm zarar ve ziyanları, cezaları ilk talepte ödemeyi kabul ve taahhüt eder, Örneğin; hatalı vites değiştirilmesi sebepli oluşan zararları, uyarı ışığının yanmasına rağmen aracın kullanılmaya devam edilmesi, aracın altının vurulmasından sonra aracın kullanılmaya devam edilmesi, kira süresinde ortaya çıkan bakım ihtiyacına rağmen bakımının bildirilmemesi ile oluşan zararlar gibi. 
+h.  Aracı kiralayanın dışında bir kişinin kullanabilmesi için, geçerli kimlik ve sürücü belgesi bilgilerinin kiralama başlangıcında sözleşmeye yazılması ve günlük ek sürücü ücretlerinin ödenmesi gerekir. Bu kurala uyulmadığı takdirde alınan sigortalar geçersiz sayılır ve kiracı ile kullanan kişiler tüm hasarlardan sorumlu tutulur, 
+ı. Kiralama bitiminde eksik yakıt ile gelecek olan araçların yakıtları Enterprise ofislerinde tamamlanacak, kiracı tarafından yakıt tutarının üzerine eklenecek % 30’luk hizmet bedeli ve KDV tutarı ile ödemesi gerçekleştirilecektir. Kira dönemi ile ilgili trafik cezaları da kiracılar tarafından kiralama sonunda ödenmedi ise Kiralayana ödenecektir. Kiralama bitiminde tespit edilemeyen ve sonradan gelecek olan trafik cezaları, bilgilendirmek sureti ile kiracının, kira başlangıcında gösterdiği rıza ile kredi kartından tahsil edilecektir, 
+i.   Enterprise ofislerinin bulunmadığı şehirlerde teslim etme ve alma için, en yakın Enterprise ofisine olan uzaklık üzerinden Kiralayanın belirlediği tutarda km. başına ücret alınır. 4 günden az kiralanan araçlarda, aracın kiralandığı şehirden başka bir Enterprise ofisine teslim edilmesi durumunda tek yön tarifesine göre ücret uygulanır, 
+j.  Kiracının iş bu anlaşma gereğince yapılması gereken ödemelerin tahsili sırasında kiralayanın yaptığı giderler,
+k.  Kredi kartı ile yapılan ödemelerde, depozito olarak alınan kredi kartı sliplerinin, kiralama sözleşmelerine uygun şekilde kiralayan tarafından doldurulmasına ve tahsil edilmesine kiracı itiraz edemez, 
+13. Kiracının, Enterprise tarafından uygulanan Standart Sigorta kapsamını ve Mini Hasar Sigortasını kabul etmiş olmasına rağmen aşağıdaki belirtilen koşullarda aracın zarar görmesi halinde hasar sorumluluğunu ve buna ilişkin giderleri itiraz etmeksizin karşılamayı kabul eder, 
+a.  Kaza anında alkollü ve/veya uyuşturucu madde etkisi altında ise,
+b.  Kaza tespit formunda/raporunda kazanın Kiracının tek taraflı kusurundan kaynaklı olduğunun belirtilmesi durumlarında (Araçların hızlarını hava, yol, görüş, teknik özellikler ve trafik durumuna uydurmamak/uygun kullanmamak dahil ancak bunlarla sınırlı olmamak üzere benzeri kayıtların belirtilmesi halinde)  
+c.    Yasal hız sınırının aşıldığı ve kaza tespit formunda kazanın hız nedeniyle meydana geldiğinin belirtilmesi durumunda,
+d.  Tek taraflı kazalarda kaza raporunun düzenlenmediği, çift taraflı kazalarda beyanın eksik doldurulduğu, alkol raporunun alınmadığı durumlarda ve bununla birlikte kasıtlı kazalarda, yüksek devir hızı ile araç kullanımı v.b. özensizlik ve kasıt nedenli oluşacak hasarlarda, yanlış veya kaçak yakıt kullanımı nedeni ile oluşacak hasarlarda, lastik patlaması sonucunda, jant üzerinde sürüşe bağlı olarak oluşacak hasarlarda, trafik yasalarına aykırı vasıta kullanılması halinde, trafik yasalarına aykırı sürücü belgesi kullanımı halinde, kira sözleşmesinde belirtilen sürücülerin dışında kişilerce kaza yapılması halinde, Türkiye Sigorta ve Reasürans Şirketleri Birliğinin; kasko poliçeleri ile ilgili belirlediği şartların dışına çıkılması nedeni ile, sigorta şirketlerinin sigorta bedelini ödemediği hallerde, kiracı, aracın üst kısımlarında hasara neden olması halinde (köprü, balkon, dal v.b. nesnelere çarpma neticesinde) meydana gelen hasar bedellerini, trafik sigortası ve hasar güvencelerini almış olsa dahi ödemekle yükümlüdür.
+e.     3. Şahıslara ve araç içerisindeki yolculara verilen maddi zararlar, tedavi giderleri aracın zorunlu trafik sigortası limitleri ile sınırlı olup, manevi zararlar da dâhil olmak üzere meydana gelebilecek tüm sorumluluk ve yükümlülükler münhasıran kiracıya aittir.
+f.      Kazaya bağlı olmaksızın lastik yarılması, lastik hasarı, jant hasarları ( LCF sigortası satın alınmamış ise )
+g.     Jant kapağı ve stepne kaybı
+h.     Ruhsat, plaka, yangın söndürücü ve araç içi ekipman zarar görmesi
+i.      Anahtar kaybı ve/veya kullanım kaynaklı anahtar zararları
+j.      Sigorta kapsamına girmeyen her türlü hasar ve zarar 
+14.Kiracı, araç teslimi sırasında, belirlenen ücreti, sorandan oluşacak maliyetleri ise, kira bitiminde, kredi kartı, voucher veya nakit olarak gerçekleştirecektir. Cari hesap çalışan kiracılar, oluşacak borç ile ilgili ödemelerini fatura kesiminden sonra nakden veya banka üzerinden gerçekleştirecektir. Kiracı, kira ve kira sözleşmesindeki unsurlar gereği oluşan borcunu vaktinde ödemediği takdirde, hiçbir ihtar ve ihbara gerek kalmaksızın fatura tarihinden itibaren bedellerin muaccel alacağını ve fatura tarihinden itibaren %5 (yüzde beş) temerrüt faizi ödemeyi kabul, beyan ve taahhüt eder. Kiracı, kira bedelinin ödenmemesi durumunda hakkında ihtiyati haciz veya ihtiyati tedbir talebinde bulunulması halinde YES OTO’nun teminat göstermeksizin ihtiyati haciz ve tedbir kararı almaya yetkili olduğunu kabul beyan ve taahhüt eder.
+15.Araç, aşağıdaki açıklanan şekillerde kullanılmayacaktır: 
+a.  Açık veya gizli bir gelir karşılığında yolcu / yük taşımacılığı, herhangi bir vasıtayı çekme / itme işlemi, gümrük mevzuatına ve diğer kanunlara aykırı maddelerin taşınması, bulundurulması veya diğer gayrı kanuni işlemlerde, alkol (Kanunda belirtilen yasal sınırın altında alkol kullanımı da dahil- örn:0-0,30 promil arası) ve/veya uyuşturucu madde etkisi altında,  Motor sporlarında (yarış, sürat, ralli, sağlamlık, hız denemeleri v.b.)
+b.Trafiğe kapalı veya uygun olmayan yollarda, araca zarar verecek şekilde yükleme haddini aşacak şekilde yük/eşya taşınması, aracın kapasitesinden fazla kişinin taşınması, araçların teknik yapıları ve tahammüllerine uygun olmayan yol (bataklık, arazi, dere yatağı v.b.) ve durumlarda kullanımı, aracın kiracıdan başka biri tarafından kullanılması (Kiracı dışındaki şahıslar için önceden ek sürücü olarak kayıt şartı bulunmaktadır. Bununla beraber, aracı kullanacak şahsın anlaşmadaki sorumluluklardan kurtulamayacağı gibi kullanan ile müteselsilen sorumlu olacaktır.)
+c. Ülke sınırları dışında, yasal hız sınırları dışında, sözleşme kapsamında belirtilen kuralların dışına çıkılması nedeni ile oluşan hasarların tamir bedelleri, kaza nedeni ile oluşan tüm masraflar ve tazminatlar kiracı tarafından ödenir.
+16.    Kiracıya verilen araçta hasar oluşması halinde, kiracıdan ayrıca hasarın %5’i oranında hasar takip bedeli alınır. Aracın kiracı tarafından kullanılmadığı zamanlarda, kiracı olası kaza veya hırsızlıklara karşı önlem almakla mükelleftir. Kiracı, tedbir mahiyetinde kapıları kilitli olarak, ruhsatı araçta bırakmamak kaydı ile aracı güvenli bir yere park etmek durumundadır. Aracın çalınması halinde, aracın anahtarı ve ruhsatını, ilgili emniyet birimlerini haberdar ettiğini ispatlamak kaydı ile en yakın Enterprise ofisine 24 saat içerisinde teslim etmek durumundadır. Bahsi geçen tedbirlerin alınmamasına ve/veya aşırmaya dayalı olarak araç çalınmasına neden olunması halinde, kiracı araç bedelini ve diğer zararları ödemeyi kabul eder.
+17.   Araç ile mal veya yolcu taşınması halinde, taşınan mala veya yolcuya gelebilecek her türlü hasar ve zarardan münhasıran kiracı sorumludur.
+18.   Maddi, ölümlü ve cismani zararla sonuçlanan bir kaza vukuunda, kiracı durumu derhal en yakın polis görevlilerine veya ilgili birimlere bildirmek, tutanak ve raporları en geç 24 saat içerisinde ilgili Enterprise ofisine ulaştırmak durumundadır.
+19. Kiracı veya yukarıda 12-g maddede belirtilen herhangi bir yetkili sürücü trafik sigorta poliçesi ile sigortalıdır. Kiralayan 3. şahıslara zarar veren kazalar sonucu doğacak hukuki sorumluluğu akdedilmiş mali mesuliyet sigortaları teminatı sınırları içinde sigorta şirketlerinden alabileceği tazminat miktarında yüklenir. Bu miktarın üstündeki maddi ve manevi tüm tazminat ve hukuki sorumluluk kiracıya ait olup kiralayan kiracıya rücu hakkına haizdir. Kiracı ayrıca kira süresi içinde kaza vukuunda kiralayanın ve kiralayanın sigorta şirketinin çıkarlarını korumak için aşağıdaki önlemleri alacaktır;</value>
+  </data>
+</root>

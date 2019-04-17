@@ -1,0 +1,143 @@
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+c:\users\section1\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Asus\Desktop\WİSSEN\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Asus\Desktop\WİSSEN\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\ARAC-OTO-KİRALAMA\ARAC-OTO-KİRALAMA\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Downloads\WindowsFormsApp9\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\Yeni klasör\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Downloads\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Police.resources
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Police.resources
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Police.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Dell\Downloads\WindowsFormsApp9 (8)\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Police.resources
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Section1\Desktop\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Giris.resources
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Police.resources
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Asus\Desktop\MVC\Araba Kiralama(Mustafa, Özlem,Özgül)\Proje\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\PROJELER\arac kiralama\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Asus\Desktop\PROJELER\arac kiralama\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Asus\Desktop\PROJELER\arac kiralama\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
